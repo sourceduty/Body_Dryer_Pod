@@ -18,6 +18,8 @@ The versatility of the Body Drying Pod makes it an ideal addition to various rec
 [Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
 <br>
 [Dyson Bladeless PC](https://github.com/sourceduty/Dyson_Bladeless_PC)
+<br>
+[Boats](https://github.com/sourceduty/Boats)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
